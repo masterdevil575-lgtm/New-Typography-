@@ -1,0 +1,6 @@
+{
+  "name": "NextGen Kinetic",
+  "description": "Create viral animated kinetic typography and auto-caption videos with Groq Whisper and AI styles",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
